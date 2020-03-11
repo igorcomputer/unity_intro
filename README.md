@@ -132,17 +132,17 @@ Shift+Space - Увеличение текущего окна на весь эк�
 ## Ссылки:
  
 __Documentation:__ 
-https://docs.unity3d.com/ru/current/Manual/UnityManual.html
+- https://docs.unity3d.com/ru/current/Manual/UnityManual.html
 
 __API Scripts:__
-https://docs.unity3d.com/ru/current/ScriptReference/index.html
+- https://docs.unity3d.com/ru/current/ScriptReference/index.html
 
 __HotKeys:__ 
-https://www.youtube.com/watch?v=yMqefz8XNC4 (Eng) 
-https://www.youtube.com/watch?v=RzkctgtAm6w (Rus) 
+- https://www.youtube.com/watch?v=yMqefz8XNC4 (Eng) 
+- https://www.youtube.com/watch?v=RzkctgtAm6w (Rus) 
 
 __Позиционирование игровых объектов:__ 
-https://docs.unity3d.com/ru/current/Manual/PositioningGameObjects.html
+- https://docs.unity3d.com/ru/current/Manual/PositioningGameObjects.html
 
 
 
